@@ -1,7 +1,7 @@
+/* 11559 - Event Planning */
+
 #include <iostream>
 #include <limits>
-
-/* 11559 - Event Planning */
 
 using namespace std;
 

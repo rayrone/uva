@@ -1,7 +1,7 @@
+/* 10773 - Back to Intermediate Math */
+
 #include <iostream>
 #include <cmath>
-
-/* 10773 - Back to Intermediate Math */
 
 using namespace std;
 

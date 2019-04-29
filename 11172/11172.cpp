@@ -1,6 +1,6 @@
-#include <iostream>
-
 /* 11172 - Relational Operator */
+
+#include <iostream>
 
 using namespace std;
 

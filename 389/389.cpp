@@ -1,7 +1,7 @@
+/* 389 - Basically Speaking */
+
 #include <iostream>
 #include <iomanip>
-
-/* 389 - Basically Speaking */
 
 using namespace std;
 

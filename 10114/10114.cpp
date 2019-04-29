@@ -1,6 +1,6 @@
-#include <iostream>
-
 /* 10114 - Loansome Car Buyer */
+
+#include <iostream>
 
 using namespace std;
 

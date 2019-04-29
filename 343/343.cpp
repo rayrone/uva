@@ -1,7 +1,7 @@
+/* 343 - What Base Is This? */
+
 #include <iostream>
 #include <cmath>
-
-/* 343 - What Base Is This? */
 
 using namespace std;
 

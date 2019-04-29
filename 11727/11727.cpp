@@ -1,6 +1,6 @@
-#include <iostream>
-
 /* 11727 - Cost Cutting */
+
+#include <iostream>
 
 using namespace std;
 

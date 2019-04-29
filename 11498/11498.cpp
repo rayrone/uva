@@ -1,6 +1,6 @@
-#include <iostream>
-
 /* 11498 - Division of Nlogonia */
+
+#include <iostream>
 
 using namespace std;
 
