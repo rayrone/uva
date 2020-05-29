@@ -1,9 +1,9 @@
+/* Generating List of Primes - Sieve of Eratosthenes */
+
 #include <iostream>
 #include <vector>
 
 #define MAXN 1001
-
-/* Generating List of Primes - Sieve of Eratosthenes */
 
 using namespace std;
 
