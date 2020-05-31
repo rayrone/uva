@@ -1,6 +1,7 @@
-#include <stdio.h>
-
 /* Calcula o mdc e mmc de dois numeros. */
+
+#include <stdio.h>
+#include <math.h>
 
 /* Algoritmo de Euclides Recursivo */
 int mdc_recursivo(int a, int b)
